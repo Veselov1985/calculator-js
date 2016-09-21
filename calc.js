@@ -1,6 +1,5 @@
 var Calc =  function () {
   
-//var cont = document.getElementById("cont");
 var result = document.getElementById("result");
 
 function Calc (elem) {
@@ -198,8 +197,6 @@ result.innerHTML=self.value2;
 
 }
 }
-
-
 
 
 
