@@ -1,0 +1,42 @@
+ .border-container {
+     margin-top: 20px;
+     padding-top:20px;
+     padding-bottom:20px;
+ 	
+ }
+ .cont {
+ 	background-color:#E6E6FA;
+ 	 border: 10px solid #292929;
+     height:600px;
+     border-radius:5px;
+
+ }
+ .res1{
+ 	overflow: auto;
+    background-color:white;
+ 	font-size: 50px;
+     text-align: right;
+ 	 border: 5px solid #292929;
+   outline: 5px solid #e3e3e3;
+height:100px;
+ }
+
+ .res{
+cursor: default;
+-moz-user-select: none;
+-webkit-user-select: none;
+ 	color:white;
+ 	line-height:10px;
+ 	background-color:#708090;
+ 	text-align: center;
+ 	border: 3px groove #e3e3e3;
+ 	border-radius: 20%;
+height:50px;
+margin-top: 50px;
+}
+
+.res:hover {
+	color:red;
+	border:1px solid black;
+}
+
